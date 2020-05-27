@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:jessie
+FROM balenalib/raspberrypi3
 
 RUN apt-get update -qy && apt-get install -qy \
     python \
