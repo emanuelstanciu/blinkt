@@ -17,4 +17,4 @@ WORKDIR /root/
 COPY examples	examples
 WORKDIR /root/examples/
 
-CMD ["python", "larson.py"]
+CMD ["python", "rainbow.py"]
