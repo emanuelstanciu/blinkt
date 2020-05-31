@@ -17,4 +17,4 @@ WORKDIR /root/
 COPY examples	examples
 WORKDIR /root/examples/
 
-CMD ["python", "rainbow.py"]
+CMD ["python", "random_blink_colours.py"]
